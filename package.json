@@ -1,0 +1,23 @@
+{
+  "name": "build_npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganijerd/build_npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ganijerd/build_npm/issues"
+  },
+  "homepage": "https://github.com/ganijerd/build_npm#readme",
+  "description": "",
+  "dependencies": {
+    "animejs": "^3.2.2",
+    "chart.js": "^4.4.1"
+  }
+}
